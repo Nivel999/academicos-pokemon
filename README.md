@@ -1,3 +1,4 @@
+Teste de uso do PR:
 NOTA IMPORTANTE:
 O desafio não é apenas executar comandos, mas documentar o processo. Use a falha do Git como um ponto de aprendizado profissional e demonstre sua capacidade de resolver problemas (com apoio do Gemini).
 
@@ -35,4 +36,5 @@ Ter os pacotes C instalado no PC (para que você leia e programe em C++);
 Verifique onde alocar os arquivos, eu coloquei no /C:/Pokedex/;
 
 OBS: Faça o comando: gcc main.c pokedex.c -o main.exe E depois faça: .\main.exe
+
 
